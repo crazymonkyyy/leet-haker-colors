@@ -5,5 +5,5 @@ void main(){
 		s.write;
 		")[pics/".write;
 		s.write;
-		"]".writeln;
+		".png]".writeln;
 }}
